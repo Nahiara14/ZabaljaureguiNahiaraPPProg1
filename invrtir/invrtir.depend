@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621255612 source:c:\users\nahiara\desktop\invrtir\main.c
+	<stdio.h>
+	<stdlib.h>
+
